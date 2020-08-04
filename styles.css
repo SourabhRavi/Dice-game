@@ -1,3 +1,15 @@
+
+.refresh{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 10px 20px;
+}
+.btn{
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .container {
   width: 70%;
   margin: auto;
